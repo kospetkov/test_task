@@ -1,0 +1,9 @@
+.content {
+    background-color: cadetblue;
+}
+
+.form_for_linck {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
